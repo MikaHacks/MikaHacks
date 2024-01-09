@@ -2,7 +2,7 @@
 
 **Very interesting things about me:**
 
-- Probably spent too much time trying to learn Python 
+- Probably spent too much time trying to learn Python (badsyntaxsukablyat)
 - Hollow Knight, Minecraft and Celeste enjoyer
 
 
