@@ -4,8 +4,16 @@
 
 - Probably spent too much time trying to learn Python (icant)
 - Hollow Knight, Minecraft and Celeste enjoyer
+-
+-
 
+# languages i know:
 
+html, css, js, c++
+
+## languages i *kinda* know:
+
+py, rust, 
 
 
 
